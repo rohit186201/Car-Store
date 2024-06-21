@@ -4,7 +4,7 @@ Responsive Car Showcase Website along with e-Commerce eligibility with Html5, CS
    
 
 ## Live Site
-[Project URL: https://mynext-car.web.app/](https://mynext-car.web.app/)
+[Project URL: https://nextcar-lgcpwy8v0-rohits-projects-a7e698ce.vercel.app/](https://nextcar-lgcpwy8v0-rohits-projects-a7e698ce.vercel.app/)
 
  ## Overview
  Responsive Next Generation Car showcase website including e-Commerce eligibility along with eye-catching remix icons, scrollbar, background video cover
